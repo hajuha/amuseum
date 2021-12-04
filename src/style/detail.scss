@@ -1,0 +1,31 @@
+.site-content {
+  padding: 2% 5%;
+  min-height: 100vh;
+  .title {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 24px;
+  }
+  .content {
+    display: flex;
+    margin-bottom: 24px;
+    .content-left, .content-right {
+      width: 50%;
+    }
+
+    .content-left {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: auto;
+    }
+
+    .content-right {
+      text-align: left;
+    }
+  }
+  .title-3d {
+    font-size: 20px;
+    margin-bottom: 18px;
+  }
+}

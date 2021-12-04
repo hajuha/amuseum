@@ -1,0 +1,138 @@
+@import "./variable.scss";
+
+.header {
+  background-color: $color-red;
+  padding: 20px 0px;
+  text-align: center;
+  height: 100px;
+
+  .logo {
+    margin-left: 120px;
+    position: absolute;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+    .museum {
+      display: flex;
+      flex-direction: column;
+      text-transform: uppercase;
+      color: white;
+      text-align: start;
+      font-weight: bold;
+      margin-left: 12px;
+
+      .vi-title {
+        font-size: 18px;
+      }
+
+      .en-title {
+        font-size: 12px;
+      }
+    }
+  }
+
+  .collection {
+    width: 100%;
+    align-self: center;
+    color: white;
+    font-size: 36px;
+    font-weight: bold;
+  }
+}
+
+.body {
+  .banner {
+    padding: 10%;
+  }
+
+  .banner-content {
+    font-size: 14px;
+    padding: 5% 5%;
+    text-align: justify;
+  }
+
+  .items {
+    padding: 0 120px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    .item {
+      width: 300px;
+      margin-bottom: 16px;
+    }
+    .item-image {
+      width: 300px;
+      height: 160px;
+      border-radius: 3px;
+    }
+    .item-title {
+      text-align: center;
+      align-self: center;
+      margin-bottom: 0%;
+      margin-top: 20px;
+      height: 30px;
+      font-size: 16px;
+      font-weight: bold;
+    }
+    .item-desc {
+      p {
+        display: block;
+        text-align: justify;
+        text-overflow: ellipsis;
+        word-wrap: break-word;
+        overflow: hidden;
+        max-height: 7.2em;
+        line-height: 1.8em;
+      }
+    }
+
+    .item-btn {
+      margin-right: auto;
+      background-color: $color-red;
+      border-radius: 4px;
+      height:36px;
+      width: 100px;
+      text-align: center;
+
+      .text {
+        align-self: center;
+        color: white !important;
+        font-weight: bold;
+      }
+    }
+  }
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font: bold 28px "century gothic", arial, sans-serif;
+  color: #068900;
+  margin: 0;
+  padding: 0;
+}
+h2 {
+  font: normal 115% "century gothic", arial, sans-serif;
+  color: #068900;
+}
+h4,
+h5,
+h6 {
+  margin: 0;
+  padding: 0 0 5px 0;
+  font: normal 25px arial, sans-serif;
+  color: #068900;
+}
+h5,
+h6 {
+  font: italic 21px arial, sans-serif;
+  padding: 0 0 15px 0;
+  color: #000;
+}
+h6 {
+  color: #362c20;
+}
