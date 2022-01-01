@@ -1,0 +1,65 @@
+{
+  "trealet": {
+    "header": {
+      "id_logo": "23282",
+      "title": "Bảo Tàng Quốc Gia Việt Nam"
+    },
+    "banner": {
+      "id_image": "23290",
+      "title": "Bảo Tàng Lịch Sử Quốc Gia",
+      "description": "Bảo tàng Lịch sử quốc gia đang lưu giữ số lượng bảo vật quốc gia nhiều nhất trong hệ thống các bảo tàng, di tích trên toàn quốc.Với những giá trị lịch sử tiêu biểu, độc đáo và quí hiếm, qua các đợt xét chọn, thẩm định của Hội đồng Di sản văn hóa quốc gia, 20 hiện vật trong tổng số hơn 200.000 tài liệu, hiện vật đang lưu giữ tại Bảo tàng đã được Thủ tướng Chính phủ công nhận là Bảo vật quốc gia.\n\nMỗi bảo vật quốc gia là một di sản quý giá chứa đựng những thông điệp của quá khứ, tinh hoa của nền văn hóa Việt Nam phong phú, đa dạng, giàu bản sắc, phản ánh lịch sử văn hóa lâu đời, truyền thống dựng nước và giữ nước của dân tộc Việt Nam.\n\nVới mục đích tôn vinh, quảng bá và giới thiệu giá trị của bảo vật đến đông đảo công chúng trong và ngoài nước; đổi mới cách tiếp cận nội dung và hình thức thể hiện kết hợp với ứng dụng công nghệ hiện đại, 20 bảo vật quốc gia được giới thiệu ở nhiều góc độ, cấp độ thông tin, cách thức tìm hiểu, trải nghiệm khác nhau về những nét đặc sắc, độc đáo của từng bảo vật.\n\nBảo tàng Lịch sử quốc gia trân trọng giới thiệu Trưng bày ảo 3D chuyên đề “Bảo vật quốc gia”"
+    },
+    "titleContent": "Các sản phẩm nổi bật tại bảo tàng",
+    "items": [
+      {
+        "id": "836016de-fdc6-458c-8713-1fdef62313dd",
+        "id_image": "19746",
+        "description": "<p><strong>Chất liệu:</strong> Đá cát</p><p><strong>Niên đại:</strong> Thế kỷ 3 - 4</p><p><strong>Nơi phát hiện:</strong> Làng Võ Cạnh, xã Vĩnh Trung, huyện Diên Khánh, tỉnh Khánh Hòa, năm 1910</p><p><strong>Công nhận:</strong> Là Bảo vật quốc gia theo Quyết định số 2599/QĐ-TTg ngày 30/12/2013 của Thủ tướng Chính phủ. </p><p>(Hình ảnh 6)</p>",
+        "titleVideo": "Hình ảnh 3D liên quan",
+        "link3d": "https://sketchfab.com/models/64dc0e08546046d88fca35612c9c2022/embed"
+      },
+      {
+        "id": "c5a119bb-519a-4950-8415-d84437d617e8",
+        "id_image": "19762",
+        "description": "<p><strong>Chất liệu:</strong> Đồng</p><p><strong>Niên đại:</strong> Niên hiệu Long Khánh 5, Trần Duệ Tông (năm 1377)</p><p><strong>Nơi phát hiện:</strong> Hương Khê, Hà Tĩnh, năm 1962</p><p><strong>Công nhận:</strong> Là Bảo vật quốc gia theo Quyết định số 1426/QĐ-TTg ngày 01/10/2012 của Thủ tướng Chính phủ. </p><p>(Hình ảnh 7)</p>",
+        "titleVideo": "Hình ảnh 3D của hiện vật",
+        "link3d": "https://sketchfab.com/models/0bb3fc2327e941de92991a49e8c2c0a7/embed"
+      },
+      {
+        "id": "55fe482a-2f1e-44db-822b-92db5a2bfe0f",
+        "id_image": "19754",
+        "description": "<p><strong>Chất liệu:</strong> Đồng</p><p><strong>Niên đại:</strong> Văn hoá Đông Sơn, khoảng 2500 - 2000 năm cách ngày nay</p><p><strong>Nơi phát hiện:</strong> Lạch Trường, Hoằng Hóa, Thanh Hóa, năm 1934</p><p><strong>Công nhận:</strong> Là Bảo vật quốc gia theo Quyết định số 1426/QĐ-TTg ngày 01/10/2012 của Thủ tướng Chính phủ. </p><p><strong>(Hình ảnh 1)</strong></p>",
+        "titleVideo": "Hình ảnh 3D của hiện vật",
+        "link3d": "https://sketchfab.com/models/39840e112ed346a9b8ebf24c9fdc4b8f/embed"
+      },
+      {
+        "id": "14ef2115-7392-47e8-a34b-9a09da20d042",
+        "id_image": "19738",
+        "description": "<p><strong>Chất liệu:</strong> Đồng</p><p><strong>Niên đại:</strong> Văn hoá Đông Sơn, khoảng 2500 - 2000 năm cách ngày nay</p><p><strong>Nơi phát hiện:</strong> Lạch Trường, Hoằng Hóa, Thanh Hóa, năm 1935</p><p><strong>Công nhận:</strong> Là Bảo vật quốc gia theo Quyết định số 1426/QĐ-TTg ngày 01/10/2012 của Thủ tướng Chính phủ. </p><p><strong>(Hình ảnh 2)</strong></p>",
+        "titleVideo": "Hình ảnh 3D của hiện vật",
+        "link3d": "https://sketchfab.com/models/9ded08611e7e4e5b9be11f4a9098e2e5/embed"
+      },
+      {
+        "id": "1de99353-944b-4987-9634-bd44d4cd45d1",
+        "id_image": "19722",
+        "description": "<p><strong>Chất liệu:</strong> Đồng</p><p><strong>Niên đại:</strong> Văn hoá Đông Sơn, khoảng 2500 - 2000 năm cách ngày nay</p><p><strong>Nơi phát hiện:</strong> Làng Hoàng Hạ, xã Văn Hoàng, huyện Phú Xuyên, Hà Nội, năm 1937</p><p><strong>Công nhận:</strong> Là Bảo vật quốc gia theo Quyết định số 1426/QĐ-TTg ngày 01/10/2012 của Thủ tướng Chính phủ. </p><p><strong>(Hình ảnh 3)</strong></p>",
+        "titleVideo": "Hình ảnh 3D của hiện vật",
+        "link3d": "https://sketchfab.com/models/eb9be13432d84c60913a5fd98fc5e190/embed"
+      },
+      {
+        "id": "372c7567-5d77-4b9a-abcd-d453b2d4cc0f",
+        "id_image": "19770",
+        "description": "<p><strong>Chất liệu:</strong> Đồng</p><p><strong>Niên đại:</strong> Văn hoá Đông Sơn, khoảng 2500 - 2000 năm cách ngày nay</p><p><strong>Nơi phát hiện:</strong> Thôn Đào Thịnh, huyện Trấn Yên, tỉnh Yên Bái, năm 1961</p><p><strong>Công nhận:</strong> Là Bảo vật quốc gia theo Quyết định số 1426/QĐ-TTg ngày 01/10/2012 của Thủ tướng Chính phủ </p><p>(Hình ảnh 4)</p>",
+        "titleVideo": "Hình ảnh 3D của hiện vật",
+        "link3d": "https://sketchfab.com/models/0605efb7decd47e9be0caf69ffde8eca/embed"
+      },
+      {
+        "id": "55069989-4c5c-4b92-be13-e04601a7cb83",
+        "id_image": "19730",
+        "description": "<p><strong>Chất liệu:</strong> Gỗ</p><p><strong>Niên đại:</strong> Văn hoá Đông Sơn, khoảng 2500 - 2000 năm cách ngày nay</p><p><strong>Nơi phát hiện:</strong> Thôn Ngọc Khê, xã Phù Ninh, Thủy Nguyên, Hải Phòng, năm 1961</p><p><strong>Công nhận:</strong> Là Bảo vật quốc gia theo Quyết định số 2599/QĐ-TTg ngày 30/12/2013 của Thủ tướng Chính phủ. </p><p>(Hình ảnh 5)</p>",
+        "titleVideo": "Hình ảnh 3D của hiện vật",
+        "link3d": "https://3dbooth.egal.vn/baovatquocgia/dao-gam/index.html"
+      }
+    ]
+  }
+}
